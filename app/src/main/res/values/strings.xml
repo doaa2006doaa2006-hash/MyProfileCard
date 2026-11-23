@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyProfileCard</string>
+    <string name="profile_name">Reham</string>
+    <string name="profile_job">Web and Mobile Multimedia Student</string>
+    <string name="profile_phone">Your Phone Number</string>
+    <string name="profile_social">@RehamDesign</string>
+    <string name="profile_email">your.email@example.com</string>
+</resources>
